@@ -1,7 +1,11 @@
-## I'm a University Student, Developer
+Hi there! 👋
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: start a professional IT carrier
-- ⚡ Fun fact: I love books, and dogs.
+I'm a software engineer with 13 months of experience at AROBS working on automotive projects. I graduated from university with a degree in Computer Science, and I'm currently pursuing a Master's degree in Artificial Intelligence. I'm passionate about working on diverse projects and exploring new technologies.
+
+Feel free to reach out to me through the following channels:
+
+Email: mailto::moisiferenc@gmai.com
+LinkedIn: https://www.linkedin.com/in/moisi-ferenc-b58284216/
+Instagram: https://www.instagram.com/feriv2/
+Looking forward to connecting with you!
 
