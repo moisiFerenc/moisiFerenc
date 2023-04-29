@@ -4,11 +4,11 @@ I'm a software engineer with 13 months of experience at AROBS working on automot
 
 Feel free to reach out to me through the following channels:
 
-Email: mailto::moisiferenc@gmai.com
+Email: mailto::moisiferenc@gmai.com .
 
-LinkedIn: https://www.linkedin.com/in/moisi-ferenc-b58284216/
+LinkedIn: https://www.linkedin.com/in/moisi-ferenc-b58284216/.
 
-Instagram: https://www.instagram.com/feriv2/
+Instagram: https://www.instagram.com/feriv2/.
 
 Looking forward to connecting with you!
 
