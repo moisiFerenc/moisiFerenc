@@ -4,7 +4,7 @@ I'm a software engineer working on automotive projects. I graduated from univers
 
 Feel free to reach out to me through the following channels:
 
-Email: mailto::moisiferenc@gmai.com .
+Email: moisiferenc@gmai.com .
 
 LinkedIn: https://www.linkedin.com/in/moisi-ferenc-b58284216/.
 
